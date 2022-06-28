@@ -1,13 +1,13 @@
 var key;
 
 let obj = {
-    "w": "./sounds/crash.mp3",
-    "s": "./sounds/kick-bass.mp3",
-    "a": "./sounds/snare.mp3",
-    "d": "./sounds/tom-1.mp3",
-    "j": "./sounds/tom-2.mp3",
-    "k": "./sounds/tom-3.mp3",
-    "l": "./sounds/tom-4.mp3",
+    "w": "crash.mp3",
+    "s": "kick-bass.mp3",
+    "a": "snare.mp3",
+    "d": "tom-1.mp3",
+    "j": "tom-2.mp3",
+    "k": "tom-3.mp3",
+    "l": "tom-4.mp3",
    
    
 }
